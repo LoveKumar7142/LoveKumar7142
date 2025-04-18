@@ -8,7 +8,11 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" alt="dev working" />
+<!--   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200" alt="dev working" /> -->
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height = "300"alt="Coding animation" />
+
+
+
 </p>
 
 ---
