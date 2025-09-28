@@ -47,6 +47,10 @@ I am actively practicing **Data Structures and Algorithms** to strengthen my pro
 
 ---
 
+## 🎯 Problem Solving Questions
+Daily Problem solving Coding Questions
+🔗 [View Code](https://github.com/LoveKumar7142/DSA-Questions)
+
 ## 🎯 Featured Projects
 
 ### 🍽️ Restaurant Website  
