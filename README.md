@@ -2,7 +2,7 @@
 <h1 align="center">Hey there! 👋 I'm Love Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Creative+Software+Developer;Web Developer+%7C+MCA+Passout;Always+Learning+and+Building!&center=true&width=500&height=45&font=Fira+Code&color=00FFFF&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Creative+Developer;Creative+Software+Developer;Web+Developer+%7C+MCA+Passout;Always+Learning+and+Building!&center=true&width=500&height=45&font=Fira+Code&color=00FFFF&vCenter=true&size=22" />
 </p>
 
 ---
