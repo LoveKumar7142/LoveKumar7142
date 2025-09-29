@@ -119,6 +119,14 @@ As a software developer, I also work on backend APIs, automation tools, and full
 </p>
 
 ---
+### React Course Completed
+Successfully completed a comprehensive React course covering modern web development concepts.  
+Learned core React fundamentals including components, state, props, hooks, and React Router.  
+Gained hands-on experience in building interactive and responsive user interfaces.  
+Enhanced skills in API integration, dynamic UI creation, and state management.
+🔗 [View Code](https://github.com/LoveKumar7142/React-Caurse)
+
+---
 
 ## 🧾 Certifications
 
