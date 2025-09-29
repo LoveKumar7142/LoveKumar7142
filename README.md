@@ -53,9 +53,9 @@ Daily Problem solving Coding Questions
 
 ## 🎯 Featured Projects
 
-### 🍽️ Restaurant Website  
-A modern, responsive restaurant website built using React. Features include dynamic menu display, booking form, image gallery, and smooth UI animations.  
-🔗 [View Code](https://github.com/LoveKumar7142/restaurant-site)
+### 🍽️ World Tour Website
+World Tour: A React-based web app showcasing countries from around the globe. Country data including flags, capitals, population, and region is fetched dynamically using Axios. Interactive country cards provide quick insights and detailed information for every nation. Built to demonstrate React, API integration, and responsive UI for a seamless user experience.
+🔗 [View Code](https://github.com/LoveKumar7142/World-Tour)
 
 ---
 
