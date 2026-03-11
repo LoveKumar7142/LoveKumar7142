@@ -21,7 +21,7 @@
 
 ```yaml
 Name: Love Kumar
-🎓 MCA Student | ITS Ghaziabad | AKTU University
+🎓 MCA Completed (8.28 CGPA)| ITS Ghaziabad | AKTU University
 💻 React Developer | Java | DSA | C++
 🌱 Currently learning Backend (Node.js, Express.js)
 📫 Email: lovekumar714283@gmail.com
